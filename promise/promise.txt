@@ -1,0 +1,12 @@
+Ques: What is a Promise?
+A Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
+
+Alternatively:
+A Promise is an object that indicates whether an asynchronous operation has been completed or not.
+
+How many states does a Promise have?
+A Promise has 3 states:
+
+1. Pending (initially)
+2. Fulfilled
+3. Rejected / Failed
